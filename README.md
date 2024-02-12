@@ -6,11 +6,10 @@ This tool was designed for broad accessibility in the industry, eliminating the 
 
 ## Access the Application
 
-For immediate access to the KDeltaT Policy Software, please visit our Streamlit app at:
+For immediate access to the KDeltaT Policy Software, please visit our user-friendly interface at:
 
 [https://augustojsrodrigues-kdt-kdt-ar-cwc2un.streamlit.app/](https://augustojsrodrigues-kdt-kdt-ar-cwc2un.streamlit.app/)
 
-This link directs you to our user-friendly interface, designed to facilitate your maintenance planning tasks with efficiency and ease.
 This application is sometimes suspended due to inactivity. To reactivate it, simply click on the button available for this purpose.
 
 ## On the maintenance policy model
