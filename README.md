@@ -15,6 +15,7 @@ This application is sometimes suspended due to inactivity. To reactivate it, sim
 ## On the maintenance policy model
 
 The basis of this software is the model described in our scientific article, **"A general inspection and replacement policy for protection systems subject to shocks with state dependent effect"**, by Augusto J. S. Rodrigues, Cristiano A. V. Calvancante & Chi-Guhn Lee.
+
 The article is currently under review, and the link to access it will be made available after acceptance.
 
 ## Contribute and Collaborate
