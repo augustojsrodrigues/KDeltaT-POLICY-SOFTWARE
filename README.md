@@ -1,4 +1,4 @@
-# KDeltaT_POLICY_SOFTWARE
+# KDeltaT POLICY SOFTWARE
 
 Welcome to the official repository of the **KDeltaT Policy Software**, , a web application for planning the maintenance of protection systems subject to shocks. This application has been developed by [Augusto J. S. Rodrigues](https://orcid.org/0000-0002-7042-9270) and [Cristiano A. V. Cavalcante](https://orcid.org/0000-0003-1466-656X).
 
