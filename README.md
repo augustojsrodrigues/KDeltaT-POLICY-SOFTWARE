@@ -4,7 +4,7 @@ Welcome to the official repository of the **KDeltaT Policy Software**, , a web a
 
 This tool was designed for broad accessibility in the industry, eliminating the need for extensive knowledge of mathematical modeling or programming languages.
 
-## Access the Application
+## Access to the application
 
 For immediate access to the KDeltaT Policy Software, please visit our user-friendly interface at:
 
@@ -18,7 +18,7 @@ The basis of this software is the model described in our scientific article, **"
 
 The article is currently under review, and the link to access it will be made available after acceptance.
 
-## Contribute and Collaborate
+## Collaborations
 
 We welcome contributions, feedback, and discussions regarding the software and the policy model it implements. Whether you're a researcher, industry professional, or enthusiast in the field of maintenance planning and protection systems, your insights are invaluable to us.
 
