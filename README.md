@@ -1,6 +1,8 @@
 # KDeltaT_POLICY_SOFTWARE
 
-Welcome to the official repository of the **KDeltaT Policy Software**, a cutting-edge web application dedicated to the maintenance planning of protection systems that are exposed to shocks. This application has been developed by Augusto J. S. Rodrigues and Cristiano A. V. Cavalcante.
+Welcome to the official repository of the **KDeltaT Policy Software**, , a web application for planning the maintenance of protection systems subject to shocks. This application has been developed by Augusto J. S. Rodrigues and Cristiano A. V. Cavalcante.
+
+This tool was designed for broad accessibility in the industry, eliminating the need for extensive knowledge of mathematical modeling or programming languages.
 
 ## Access the Application
 
@@ -9,6 +11,7 @@ For immediate access to the KDeltaT Policy Software, please visit our Streamlit 
 [https://augustojsrodrigues-kdt-kdt-ar-cwc2un.streamlit.app/](https://augustojsrodrigues-kdt-kdt-ar-cwc2un.streamlit.app/)
 
 This link directs you to our user-friendly interface, designed to facilitate your maintenance planning tasks with efficiency and ease.
+This application is sometimes suspended due to inactivity. To reactivate it, simply click on the button available for this purpose.
 
 ## On the maintenance policy model
 
